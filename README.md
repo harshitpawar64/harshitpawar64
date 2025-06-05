@@ -7,10 +7,16 @@
 
 ---
 
-<p align="center">
+## 🛠️ Skills
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Chess-181717?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess Badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge"/>
 </p>
+
+- **Languages**: Python, C, SQL
+- **Interests**: Problem-solving, automation, and chess strategy
 
 ## 🚀 About Me
 
@@ -21,7 +27,7 @@
 
 ## 🛠️ Skills
 
-- **Languages**: Python
+- **Languages**: Python, C, SQL
 - **Interests**: Problem-solving, automation, and chess strategy
 
 ## 🌐 Connect with Me
@@ -37,7 +43,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Keep+Learning,+Keep+Growing!;Let's+connect+%F0%9F%91%8B" />
-</p>
