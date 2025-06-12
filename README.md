@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Harshit Pawar</h1>
 <p align="center">
-  <b>Student | Aspiring Python Developer | Chess Enthusiast</b>
+  <b>A FIDE Master (FM) in chess and a dedicated Computer Science student. Passionate about applying analytical skills from the chessboard to software development.</b>
 </p>
 
 ---
@@ -15,9 +15,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge"/>
 </p>
 
-- **Languages**: Python, C, SQL
-- **Interests**: Problem-solving, automation, and chess strategy
-
 ## 🚀 About Me
 
 - 🎓 I’m currently a student, passionate about learning and building with **Python**.
@@ -25,14 +22,12 @@
 - 🌱 Eager to explore new technologies and grow as a developer.
 - 👀 Looking for interesting projects and collaboration opportunities.
 
-## 🛠️ Skills
-
-- **Languages**: Python, C, SQL
-- **Interests**: Problem-solving, automation, and chess strategy
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-pawar-chess/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-pawar-chess/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.chess.com/member/YOUR_USERNAME_HERE"><img src="https://img.shields.io/badge/Chess.com-779556?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Badge"/></a>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -41,5 +36,9 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpawar64&theme=radical" alt="GitHub Streak" />
 </p>
+
+## ♟️ Fun Chess Fact
+
+The word 'Checkmate' in chess comes from the Persian phrase 'Shah Mat', which means 'the King is dead'.
 
 ---
