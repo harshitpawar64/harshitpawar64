@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-pawar-chess/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.chess.com/member/YOUR_USERNAME_HERE"><img src="https://img.shields.io/badge/Chess.com-779556?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Badge"/></a>
+  <a href="https://www.chess.com/member/Tactrics64"><img src="https://img.shields.io/badge/Chess.com-779556?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Badge"/></a>
 </p>
 
 ## 📊 GitHub Stats
@@ -36,9 +36,4 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpawar64&theme=radical" alt="GitHub Streak" />
 </p>
-
-## ♟️ Fun Chess Fact
-
-The word 'Checkmate' in chess comes from the Persian phrase 'Shah Mat', which means 'the King is dead'.
-
 ---
