@@ -22,19 +22,19 @@
 - 🌱 Eager to explore new technologies and grow as a developer.
 - 👀 Looking for interesting projects and collaboration opportunities.
 
-## 🌐 Connect with Me
+## 🤝 Let's Connect & Collaborate!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshit-pawar-chess/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.chess.com/member/Tactrics64"><img src="https://img.shields.io/badge/Chess.com-779556?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess.com Badge"/></a>
-</p>
+I'm always open to connecting with fellow developers, chess enthusiasts, and anyone passionate about technology.  
+Feel free to [connect on LinkedIn](https://www.linkedin.com/in/harshit-pawar-chess/) if you want to collaborate on a project or just say hi!
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitpawar64&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpawar64&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpawar64&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
 </p>
 
 ---
