@@ -34,7 +34,6 @@ Feel free to [connect on LinkedIn](https://www.linkedin.com/in/harshit-pawar-che
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpawar64&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitpawar64&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
 </p>
 
 ---
