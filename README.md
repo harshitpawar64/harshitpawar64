@@ -34,4 +34,6 @@ Feel free to [connect on LinkedIn](https://www.linkedin.com/in/harshit-pawar-che
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitpawar64&theme=radical" alt="GitHub Streak" />
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/harshitpawar64?style=social)
+![GitHub stars](https://img.shields.io/github/stars/harshitpawar64?style=social)
 ---
