@@ -19,7 +19,7 @@
 
 - 🎓 I’m currently a student, passionate about learning and building with **Python**.
 - ♟️ Chess lover – always up for a challenge or a friendly match!
-- 🌱 Eager to explore new technologies and grow as a developer.
+- 🌱 Currently diving deeper into **R** and exploring **Data Analysis**.
 - 👀 Looking for interesting projects and collaboration opportunities.
 
 ## 🤝 Let's Connect & Collaborate!
